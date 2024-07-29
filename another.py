@@ -1,0 +1,6 @@
+print("hello world")
+print("ey bolozo")
+print('hsdalsdlaskda')
+print('el rio')
+print('ononosaidas')
+print('hehehehe')
